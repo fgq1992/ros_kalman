@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/opt/ros/kinetic/include",
+                "/home/bruce/catkin_ws/src/A-LOAM/include",
+                "/home/bruce/catkin_ws/src/VINS-Mono/camera_model/include",
+                "/home/bruce/catkin_ws/src/kalman/include",
+                "/home/bruce/catkin_ws/src/LOAM_NOTED/src/loam_velodyne/include",
+                "/usr/include"
+            ],
+            "name": "Linux",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
